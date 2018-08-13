@@ -1,4 +1,4 @@
-# unixFuncionCalls
+# unixFunctionCalls
 
 Objectives:
 This programming project is intended to give me experience in using Unix function calls in C to manage processes.
